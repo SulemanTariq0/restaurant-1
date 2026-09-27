@@ -1,2 +1,2 @@
-# restaurant-1
-A Template For A restaurant Website
+# BirchLight 
+**A Open Free website template for restaurant**
